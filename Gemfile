@@ -1,2 +1,3 @@
-source 'https://rubygems.org'
-gem 'minitest', '~> 5.4'
+source "https://rubygems.org"
+gem "guard-standardrb"
+gem "minitest", "~> 5.4"
